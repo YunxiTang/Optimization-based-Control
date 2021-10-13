@@ -1,0 +1,2 @@
+/home/tang/Code/Optimization Control/DDP_cpp/build/CMakeFiles/rebuild_cache.dir
+/home/tang/Code/Optimization Control/DDP_cpp/build/CMakeFiles/edit_cache.dir
